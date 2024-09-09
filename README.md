@@ -15,6 +15,8 @@ https://github.com/user-attachments/assets/65daa369-2d81-49b9-a474-63712d9f8404
 # 動作について
 * win11のPython 3.10.11でのみ確認
 * 表情認識は重いのでご承知おきを
+* 初期実行時がモデルのDLなどあるので重いです
+* 初回実行時にSE用の音声ファイルを効果音ラボから自動DLします
 
 # ライセンス
 [MIT](https://github.com/omikujiv/otaku_fake_emotion_hunting/blob/main/LICENSE)

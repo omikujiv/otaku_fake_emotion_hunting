@@ -17,4 +17,4 @@ https://github.com/user-attachments/assets/65daa369-2d81-49b9-a474-63712d9f8404
 * 表情認識は重いのでご承知おきを
 
 # ライセンス
-MIT
+[MIT](https://github.com/omikujiv/otaku_fake_emotion_hunting/blob/main/LICENSE)

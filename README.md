@@ -19,6 +19,7 @@ https://github.com/user-attachments/assets/65daa369-2d81-49b9-a474-63712d9f8404
 * 初期実行時がモデルのDLなどあるので重いです
 * 初回実行時にSE用の音声ファイルを効果音ラボから自動DLします
 * 終了はターミナルなどから Ctl+C などで強制終了のみ対応
+* タイピングが速いと認識できません(Nキーロールオーバーではない)
 
 # ライセンス
 [MIT](https://github.com/omikujiv/otaku_fake_emotion_hunting/blob/main/LICENSE)

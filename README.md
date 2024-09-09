@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/65daa369-2d81-49b9-a474-63712d9f8404
 * 草
 * わら
 * 泣いた
-* 真顔
+* 真顔 
 
 # 動作について
 * win11のPython 3.10.11でのみ確認

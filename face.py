@@ -4,7 +4,7 @@ import time
 # キー入力監視
 import keyboard
 # 表情認識
-from feat import Detector
+from feat import Detector # https://github.com/cosanlab/py-feat/blob/main/LICENSE
 import matplotlib.pyplot as plt
 # webカメラ
 import cv2

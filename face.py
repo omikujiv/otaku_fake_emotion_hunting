@@ -1,19 +1,19 @@
 import sys
 import os
 import time
-# キー入力監視
-import keyboard
-# 表情認識
-from feat import Detector # https://github.com/cosanlab/py-feat/blob/main/LICENSE
-import matplotlib.pyplot as plt
-# webカメラ
-import cv2
+# キー入力監視 
+import keyboard #Copyright (c) 2016 BoppreH https://github.com/boppreh/keyboard?tab=MIT-1-ov-file#
+# 表情認識 
+from feat import Detector #Copyright (c) 2022, Jin Hyun Cheong, Tiankang Xie, Sophie Byrne, Eshin Jolly, Luke Chang  https://github.com/cosanlab/py-feat/blob/main/LICENSE
+import matplotlib.pyplot as plt # https://matplotlib.org/stable/project/license.html
+# webカメラ 
+import cv2 # https://github.com/opencv/opencv/blob/master/LICENSE
 # 音声DL
-import requests
+import requests 
 # 音声再生
 import subprocess
 import time
-import vlc # pip install python-vlc
+import vlc # pip install python-vlc #https://github.com/oaubert/python-vlc/blob/master/COPYING
 # alert dialog
 import tkinter as tk
 import tkinter.messagebox as messagebox
